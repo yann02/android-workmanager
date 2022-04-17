@@ -1,0 +1,2 @@
+# android-workmanager
+基于谷歌android-workmanager codelab项目，添加了图片选择和实现了图片模糊处理后，页面显示模糊的照片功能。图片选择使用的matisse库（知乎出品？）因为该库只支持jcenter仓库的拉取，由于项目使用的gradle版本较新，已经不支持jcenter，所以项目使用本地依赖的方式引用该库
